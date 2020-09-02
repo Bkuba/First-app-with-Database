@@ -1,0 +1,11 @@
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\bin\Debug\Pracownicy.exe.config
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\bin\Debug\Pracownicy.exe
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\bin\Debug\Pracownicy.pdb
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\obj\Debug\Pracownicy.csprojAssemblyReference.cache
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\obj\Debug\Pracownicy.Form1.resources
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\obj\Debug\Pracownicy.Properties.Resources.resources
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\obj\Debug\Pracownicy.csproj.GenerateResource.cache
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\obj\Debug\Pracownicy.csproj.CoreCompileInputs.cache
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\obj\Debug\Pracownicy.exe
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\obj\Debug\Pracownicy.pdb
+E:\programowanie\KURS\Dzien7\Pracownicy\Pracownicy\obj\Debug\Pracownicy.View.Form2.resources
